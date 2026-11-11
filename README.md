@@ -1,16 +1,15 @@
-## Hi there 👋
+# Merhaba, ben Mertcan 👋
 
-<!--
-**ozcmertcan/ozcmertcan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bilişim Güvenliği Teknolojisi 2. sınıf öğrencisiyim. Yazılımı sıfırdan, adım adım öğreniyorum ve öğrendiklerimi burada paylaşıyorum.
 
-Here are some ideas to get you started:
+## Şu an çalıştığım konular
+- HTML, CSS ve JavaScript
+- AngularJS
+- Java (temelden başlıyorum)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projelerim
+- [Web Alıştırmaları](https://github.com/ozcmertcan/web-alistirmalari): ekle/sil/güncelle tabloları ve API'den veri çekme, canlı linkleri içinde
+- [AngularJS Öğrenci Tablosu](https://github.com/ozcmertcan/angularjs-ogrenci-tablosu)
+
+## Öğrenmek istediklerim
+Git ve GitHub, Java, web güvenliği temelleri
